@@ -1,5 +1,6 @@
 .screenshot{
 	width: 15px;
+	margin: auto;
 }
 
 hr{
@@ -7,5 +8,6 @@ hr{
 }
 
 body{
+	align: center;
 	font-size: 4rem;
 }
