@@ -1,13 +1,13 @@
 .screenshot{
-	width: 5px;
-	margin: auto;
+        width: 65rem;
+        margin: auto;
 }
 
 hr{
-	width: 100%;
+        width: 100%;
 }
 
 body{
-	align: center;
-	font-size: 4rem;
+        align: center;
+        font-size: 1.3rem;
 }
